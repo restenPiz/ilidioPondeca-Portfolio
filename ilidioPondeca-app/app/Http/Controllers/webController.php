@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Mail\Email_contacto;
+use App\Mail\SendMailUser;
 use Illuminate\Support\Facades\Mail;
 
 class webController extends Controller
