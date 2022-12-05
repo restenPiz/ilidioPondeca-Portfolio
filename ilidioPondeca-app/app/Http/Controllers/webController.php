@@ -18,7 +18,7 @@ class webController extends Controller
             'mensagem'   => Request::input('mensagem'),
         );
 
-        Mail::to("ilidiopondeca@gmail.com")->send(new Email_contacto($data));
+        Mail::to("mauropeniel7@gmail.com")->send(new Email_contacto($data));
         return back()->with('sucesso','Mensagem enviada com sucesso');
     }
 }
