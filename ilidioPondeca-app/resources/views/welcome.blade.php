@@ -378,13 +378,15 @@
         </div>
         <div class="form-group mt-3">
           <textarea class="form-control" name="mensagem" rows="5" placeholder="Messagem" required></textarea>
-        </div>
+        </div><br>
         <!--<div class="my-3">
           <div class="loading">Processando</div>
           <div class="error-message"></div>
           <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
         </div>-->
-        <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
+        <div class="text-center">
+          <button type="submit" name="submit">Enviar Mensagem</button>
+        </div>
       </form>
 
     </div>
