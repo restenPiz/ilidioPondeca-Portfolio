@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\webController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+//Rota para enviar email
+Route::post('/enviar_email',[webController::class,'enviar_email'])->name('enviar_email');
