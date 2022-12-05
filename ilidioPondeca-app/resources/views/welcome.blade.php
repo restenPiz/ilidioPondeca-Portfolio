@@ -49,7 +49,7 @@
 
       <div class="social-links">
         <!---<a href="#" class="twitter"><i class="bi bi-twitter"></i></a>--->
-        <a href="#" class="whatsapp" style="background-color:green"><i class="bi bi-whatsapp"></i></a>
+        <a href="https://wa.me/849079755" class="whatsapp" style="background-color:green"><i class="bi bi-whatsapp"></i></a>
         <a href="https://web.facebook.com/ilidio.pondeca?_rdc=1&_rdr" class="facebook" style="background-color:blue"><i class="bi bi-facebook"></i></a>
         <a href="#" class="instagram" style="background-color: #983596"><i class="bi bi-instagram"></i></a>
         <!---<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>--->
@@ -338,7 +338,7 @@
             <h3>Redes Sociais</h3>
             <div class="social-links">
               <!--<a href="#" class="twitter"><i class="bi bi-twitter"></i></a>-->
-              <a href="#" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
+              <a href="https://wa.me/849079755" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
               <a href="https://web.facebook.com/ilidio.pondeca?_rdc=1&_rdr" class="facebook"><i class="bi bi-facebook"></i></a>
               <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
               <!---<a href="#" class="google-plus"><i class="bi bi-skype"></i></a>-->
@@ -358,42 +358,42 @@
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>Liga-me</h3>
-            <p>+849079755</p>
+            <p>849079755</p>
           </div>
         </div>
       </div>
 
-      <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
+      <form action="{{route('enviar_email')}}" method="post" role="form" class="php-email-form mt-4">
+      @csrf
         <div class="row">
           <div class="col-md-6 form-group">
-            <input type="text" name="name" class="form-control" id="name" placeholder="Seu Nome" required>
+            <input type="text" name="nome" class="form-control" id="name" placeholder="Seu Nome" required>
           </div>
           <div class="col-md-6 form-group mt-3 mt-md-0">
             <input type="email" class="form-control" name="email" id="email" placeholder="Seu Email" required>
           </div>
         </div>
         <div class="form-group mt-3">
-          <input type="text" class="form-control" name="subject" id="subject" placeholder="Apelido" required>
+          <input type="text" class="form-control" name="apelido" id="subject" placeholder="Apelido" required>
         </div>
         <div class="form-group mt-3">
-          <textarea class="form-control" name="message" rows="5" placeholder="Messagem" required></textarea>
+          <textarea class="form-control" name="mensagem" rows="5" placeholder="Messagem" required></textarea>
         </div>
-        <div class="my-3">
+        <!--<div class="my-3">
           <div class="loading">Processando</div>
           <div class="error-message"></div>
           <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
-        </div>
+        </div>-->
         <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
       </form>
 
     </div>
-  </section><!-- End Contact Section -->
+  </section>
 
   <div class="credits">
     Desenvolvido pela <a href="https://eliteteclda.com/">EliteTec,Lda</a>
   </div>
 
-  <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
@@ -401,9 +401,6 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
 </html>
