@@ -51,7 +51,7 @@
         <!---<a href="#" class="twitter"><i class="bi bi-twitter"></i></a>--->
         <a href="https://wa.me/849079755" class="whatsapp" style="background-color:green"><i class="bi bi-whatsapp"></i></a>
         <a href="https://web.facebook.com/ilidio.pondeca?_rdc=1&_rdr" class="facebook" style="background-color:blue"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram" style="background-color: #983596"><i class="bi bi-instagram"></i></a>
+        <a href="http://instagram.com/_u/2face_mozofficial/" class="instagram" style="background-color: #983596"><i class="bi bi-instagram"></i></a>
         <!---<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>--->
       </div>
 
@@ -340,7 +340,7 @@
               <!--<a href="#" class="twitter"><i class="bi bi-twitter"></i></a>-->
               <a href="https://wa.me/849079755" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
               <a href="https://web.facebook.com/ilidio.pondeca?_rdc=1&_rdr" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="http://instagram.com/_u/2face_mozofficial/" class="instagram"><i class="bi bi-instagram"></i></a>
               <!---<a href="#" class="google-plus"><i class="bi bi-skype"></i></a>-->
               <!----<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>--->
             </div>
