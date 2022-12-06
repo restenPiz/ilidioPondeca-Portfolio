@@ -363,7 +363,7 @@
         </div>
       </div>
 
-      <form action="{{route('enviar_email')}}" method="post" role="form" class="php-email-form mt-4">
+      <form action="{{route('enviar_email')}}" method="post" class="php-email-form mt-4">
       @csrf
         <div class="row">
           <div class="col-md-6 form-group">
