@@ -28,6 +28,6 @@ class SendMailUser extends Mailable
      */
     public function build()
     {
-        return $this->from('to@email.com','NEW VISITOR')->view('welcome')->with('data', $this->data);        
+        return $this->from('noreply@ilidiopondeca.com','NEW VISITOR')->subject("Contacto Website")->view('email')->with('data', $this->data);        
     }
 }
