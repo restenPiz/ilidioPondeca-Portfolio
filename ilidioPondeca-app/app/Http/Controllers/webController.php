@@ -19,6 +19,6 @@ class webController extends Controller
         );
 
         Mail::to("mauropeniel7@gmail.com")->send(new Email_contacto($data));
-        return back()->with('sucesso','Mensagem enviada com sucesso');
+        return back()->with('success','Mensagem enviada com sucesso');
     }
 }
