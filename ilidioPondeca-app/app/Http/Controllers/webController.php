@@ -24,6 +24,6 @@ class webController extends Controller
     }
     public function teste()
     {
-        return view('bemVindo')
+        return view('bemVindo');
     }
 }
