@@ -42,7 +42,7 @@
           <li><a class="nav-link" href="#about">Sobre</a></li>
           <li><a class="nav-link" href="#resume">Resumo</a></li>
           <li><a class="nav-link" href="#portfolio">Galeria</a></li>
-          <li><a class="nav-link" href="#contact">Contactos</a></li>
+          <li><a class="nav-link" href="#contact">Contacto</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
