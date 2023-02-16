@@ -159,7 +159,9 @@
               <li>Em 2019 conheci a um grande e maravilhoso DEUS, numa casa chamada Ministério da Graça Divina ( MGD ) onde o pai através da graça usou a Profetiza Thelmer para dizer qual era o meu propósito aqui na terra;
               </li>
               <li>No mesmo ano isso em 2019 fui concorer para o MFW (Mozambique Fashion Week), mais eu não tinha família, logo tornou impossível a viagem ser feita porque não teria onde dormir e comer;</li>
-              <li>Em 2022 graças a Deus, chegou o convite para poder participar do concurso de moda em Portugal e poder representar condignamente a nossa bela cidade da Beira.</li>
+              <li>Em 2022 graças a Deus, chegou o convite para poder participar do concurso de moda em Portugal e poder representar condignamente a nossa bela cidade da Beira. Neste periodo que 
+                fui chamado a Portugal tinha uma estadia de 1 mes,
+              </li>
             </ul>
             </p>
           </div>
