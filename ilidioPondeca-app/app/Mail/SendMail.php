@@ -30,8 +30,8 @@ class SendMailUser extends Mailable
     {
         return $this
             // ->from(config('mail.from.address'))
-            ->from('mauropeniel7@gmail.com', $this->date['email'])
-            ->subject($this->date['mensagem'])
+            ->from('mauropeniel7@gmail.com', $this->data['email'])
+            ->subject($this->data['mensagem'])
             ->view('welcome');
     }
 }
