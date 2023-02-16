@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Request;
-use App\Mail\SendMailUser;
+use App\Mail\SendMail;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\Email_contacto;
 
@@ -19,7 +19,8 @@ class webController extends Controller
             'mensagem'   => Request::input('mensagem'),
         );
 
-        Mail::to("mauropeniel7@gmail.com")->send(new Email_contacto($data));
+        Mail::to(Request::input('email'))->send(new SendMail($data));
+
         return back()->with('success','Mensagem enviada com sucesso');
     }
     public function teste()
