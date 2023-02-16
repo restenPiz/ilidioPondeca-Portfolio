@@ -367,7 +367,7 @@
         </div>
       </div>
 
-      <form method="post" action="{{route('enviar_email')}}">
+      <form action="{{route('enviar_email')}}" method="post" class="php-email-form mt-4">
       @csrf
         <div class="row">
           <div class="col-md-6 form-group">
@@ -384,7 +384,7 @@
           <textarea class="form-control" name="mensagem" rows="5" placeholder="Messagem" required></textarea>
         </div><br>
         <div class="text-center">
-          <button type="submit" name="submit">Enviar Mensagem</button>
+          <input type="button" name="submit" value="Enviar mensagem">
         </div>
       </form>
 

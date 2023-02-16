@@ -19,5 +19,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/teste',[webController::class,'teste'])->name('teste');
+
 //Rota para enviar email
 Route::post('/enviar_email',[webController::class,'enviar_email'])->name('enviar_email');
