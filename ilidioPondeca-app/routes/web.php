@@ -14,6 +14,7 @@ use App\Http\Controllers\webController;
 |
 */
 
+//Inicio da rota principal da website do ilidio
 Route::get('/', function () {
     return view('welcome');
 });
