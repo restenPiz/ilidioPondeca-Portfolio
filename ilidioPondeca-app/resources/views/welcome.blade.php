@@ -161,6 +161,7 @@
               <li>No mesmo ano isso em 2019 fui concorer para o MFW (Mozambique Fashion Week), mais eu não tinha família, logo tornou impossível a viagem ser feita porque não teria onde dormir e comer;</li>
               <li>Em 2022 graças a Deus, chegou o convite para poder participar do concurso de moda em Portugal e poder representar condignamente a nossa bela cidade da Beira. Neste periodo que 
                 fui chamado a Portugal tinha uma estadia de 1 mes, mas por causa do impacto positivo acabei ficando mais 4 meses onde participei do: <b>Portugal Fashion Week Lisboa</b>.<br>
+                Em lisboa eu fiz trabalhos e desfiles para grande icones de moda em Portugal como desfile para <b>Nuno Gama</b>
               </li>
             </ul>
             </p>
