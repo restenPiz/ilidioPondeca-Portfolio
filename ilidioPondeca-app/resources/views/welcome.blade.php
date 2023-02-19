@@ -200,6 +200,23 @@
 
       <div class="row portfolio-container">
 
+        {{--Inicio da parte de video--}}
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/galery/a2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Mozambique Fashion Week</h4>
+              <p>Maputo</p>
+              <div class="portfolio-links">
+                <a href="assets/galery/a2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                </div>
+            </div>
+          </div>
+        </div>
+
+        {{--Fim da parte de video--}}
+
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <img src="assets/galery/a2.jpg" class="img-fluid" alt="">
