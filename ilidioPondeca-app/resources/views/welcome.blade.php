@@ -204,7 +204,9 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/galery/a2.jpg" class="img-fluid" alt="">
+            
+            {{--Inicio da parte que teremos a tag de video--}}
+
             <div class="portfolio-info">
               <h4>Mozambique Fashion Week</h4>
               <p>Maputo</p>
