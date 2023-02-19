@@ -191,7 +191,7 @@
             <li data-filter=".filter-web">Passeio</li>
             
             {{--Inicio da parte de videos--}}
-            <li data-filter=".filter-web">Passeio</li>
+            <li data-filter=".filter-video">Passeio</li>
             {{--Fim da parte de videos--}}
 
           </ul>
