@@ -329,7 +329,7 @@
               <h4>Mozambique Fashion Week</h4>
               <p>Maputo</p>
               <div class="portfolio-links">
-                <a href="assets/galery/a2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <a href="assets/VID-20220419-WA0033.mp4" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                 </div>
             </div>
           </div>
