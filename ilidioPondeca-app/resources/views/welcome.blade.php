@@ -189,6 +189,11 @@
             <li data-filter=".filter-app">Modelo</li>
             <li data-filter=".filter-card">Estudio</li>
             <li data-filter=".filter-web">Passeio</li>
+            
+            {{--Inicio da parte de videos--}}
+            <li data-filter=".filter-web">Passeio</li>
+            {{--Fim da parte de videos--}}
+
           </ul>
         </div>
       </div>
