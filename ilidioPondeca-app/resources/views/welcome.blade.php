@@ -323,11 +323,11 @@
           <div class="portfolio-wrap">
             
             {{--Inicio da parte que teremos a tag de video--}}
-            <video src="assets/VID-20220419-WA0033.mp4" style="width: 50%;height:50vh" class="object-fit-contain" autoplay></video>
+            <video src="assets/VID-20220419-WA0033.mp4" style="width: 100%;height:50vh" class="object-fit-contain" autoplay></video>
 
             <div class="portfolio-info">
               <h4>Video de Ilidio Pondeca</h4>
-              <p>Maputo</p>
+              <p>Beira</p>
               <div class="portfolio-links">
                 <a href="assets/VID-20220419-WA0033.mp4" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                 </div>
