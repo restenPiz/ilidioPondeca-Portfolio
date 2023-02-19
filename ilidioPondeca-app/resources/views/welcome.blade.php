@@ -319,7 +319,7 @@
 
         {{--Inicio da parte de video--}}
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-video">
           <div class="portfolio-wrap">
             
             {{--Inicio da parte que teremos a tag de video--}}
