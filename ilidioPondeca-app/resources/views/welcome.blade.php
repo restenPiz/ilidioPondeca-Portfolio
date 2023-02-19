@@ -323,7 +323,7 @@
           <div class="portfolio-wrap">
             
             {{--Inicio da parte que teremos a tag de video--}}
-            <video src="..." class="object-fit-contain" autoplay></video>
+            <video src="assets/VID-20220419-WA0033.mp4" class="object-fit-contain" autoplay></video>
 
             <div class="portfolio-info">
               <h4>Mozambique Fashion Week</h4>
