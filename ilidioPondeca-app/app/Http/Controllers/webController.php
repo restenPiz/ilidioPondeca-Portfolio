@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Request;
 use App\Mail\SendMail;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Mail\Mailable\SendMail;
 use App\Mail\Email_contacto;
 
 class webController extends Controller
